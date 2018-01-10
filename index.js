@@ -14,16 +14,16 @@ function divide(a,b) {
   return parseInt(a)/parseInt(b)
 }
 
-n = a
+n = a;
 
-function inc(a) {
-  return parseInt(a)+1
+function inc(n) {
+  return parseInt(n)+1
 }
 
-function dec(a) {
-  return parseInt(a)-1
+function dec(n) {
+  return parseInt(n)-1
 }
 
-function makeInt() {
+function makeInt(n) {
   
 }
