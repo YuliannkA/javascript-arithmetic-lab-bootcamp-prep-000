@@ -14,8 +14,8 @@ function divide(a,b) {
   return parseInt(a)/parseInt(b)
 }
 
-n = a
 function inc(n) {
+  n = parseInt(a)
   (n)++
 }
 
